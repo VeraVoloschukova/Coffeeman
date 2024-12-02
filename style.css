@@ -215,9 +215,43 @@ header {
 #map h1 {
     text-align: center;
     position: relative; 
-    right: 200px;
     color:#e06c0d; 
     font-family: "Oswald", sans-serif;
     font-weight: 900;
     font-size: 45px;
+    
+}
+.branch {
+    display: flex;
+    justify-content: center;
+}
+.cardd p{
+    margin: 0;
+}
+.p1{
+    font-weight: 900;
+}
+.p2{
+    font-weight: 800;
+}
+.p3{
+    font-weight: 400;
+}
+.p4{
+    font-weight: 200;
+}
+footer{
+    background: #483231;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+footer .logo{
+    padding: 15px;
+}
+.footertext{
+    color:#e4dcd6; 
+    font-family: "Oswald", sans-serif;
+    margin-right: 20px;
 }
