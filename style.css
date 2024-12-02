@@ -1,0 +1,223 @@
+header{
+    background: #483231;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+body{
+    margin: 0;
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+    
+}
+.one H1{
+    font-size: 56px;
+    color:rgb(243, 235, 235);
+    position: relative;
+    top: 150px; 
+    left:473px ;
+    margin: 0px;
+    font-family: "Oswald", sans-serif;
+    width: 800px;
+}
+.one H3{
+    
+    color:rgb(243, 235, 235);
+    position: relative;
+    top: 150px; 
+    left:820px ;
+    margin: 0px;
+    font-family: "Oswald", sans-serif;
+    width: 500px;
+}
+.one{
+    background-image: url('img/1666348830_13-zefirka-club-p-fon-dlya-kofeini-13.jpg');
+    background-size: cover;
+    height: 520px ;
+}
+.merriweather-bold {
+    font-family: "Merriweather", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+.logo img {
+    width: 150px;
+
+}
+H5{
+    font-size:30px ;
+    margin: 0;
+    font-family: "Oswald", sans-serif;
+}
+h4{
+    font-family: "Oswald", sans-serif;
+}
+.card{
+    background: rgb(236, 231, 231) ;
+    width: 220px ;
+    height: 350px ;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px ;
+    margin-left:10px ;
+    margin-right:10px;
+    border-radius: 10px;
+}
+.card img {
+    width:200px ;
+    height: 200px ;
+    margin: 25px ;
+    margin-left: 5px;
+}
+.two {
+    background: #3b3736;
+    
+    padding-left: 170px ;
+}
+.cards {
+    display: flex;
+}
+.card h5 {
+    margin-top: -50px ;
+    margin-bottom: -15px;
+}
+.card p {
+    color: #353434;
+}
+.card span {
+    color: #e06c0d;
+
+}
+.two h2 {
+    color: #e06c0d;
+    font-size: 50px;
+    text-align: left;
+    margin: 0;
+    padding-top: 41px;
+    padding-bottom: 18px;
+}
+.onetr td {
+    border-bottom: 2px solid black;
+    padding: 10px;
+}
+td {
+  padding: 10px;  
+}
+.s {
+    height: 20px;
+    position: relative;
+    top: 20px;
+}
+.m {
+    height: 30px;
+    position: relative;
+    top: 15px;
+}
+.l {
+    height: 40px;
+    position: relative;
+    top: 10px;
+    
+}
+table {
+    margin: 0 auto;
+    position: relative;
+    font-family: "Oswald", sans-serif;
+    right: 200px;
+}
+.texts {
+    position: relative;
+    top: 20px;
+}
+.textm {
+   
+    position: relative;
+    top: 15px;
+}
+.textl {
+   
+    position: relative;
+    top: 10px;
+    
+}
+h3 {
+    position: relative;
+    top: 20px;
+}
+td {
+    padding: 10px 50px;
+}
+.onetr td {
+    padding: 10px 50px;
+}
+.tea {
+    width: 654px;
+    height: 274px;
+}
+.hotcoffee{
+    width: 654px;
+    height: 274px;
+}
+.menu {
+    background-image: url("img/img3.akspic.ru-zavtrak-chashka_kofe-chashka-pishha-kofejnaya_chashka-2560x1600.jpg");
+    background-size: cover;
+
+}
+.menu h1 {
+    text-align: center;
+    position: relative; 
+    right: 200px;
+    color:#e06c0d; 
+    font-family: "Oswald", sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+}
+.header-menu a {
+    color:#ffd114;
+    font-size: 21px; 
+    text-decoration: none;
+    padding: 0 20px;     
+}
+.header-menu a:hover{
+    color:#e06c0d;
+}
+.card:hover{
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.8) inset;
+    -moz-box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.8) inset;
+    box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.8) inset;
+
+}
+.header-menu a {
+    font-family: "Oswald", sans-serif;
+}
+header {
+    display:flex;
+    align-items: center;
+
+}
+.map {
+    height: 350 px;    
+    width: 1350px;
+}
+.cardd {
+    height: 500px;    
+    width: 400px;
+    text-align: center;
+    font-family: "Oswald", sans-serif;
+}
+.cardd img {
+    height: 270px;    
+    width: 380px;
+    border-radius: 30px;
+}
+#map h1 {
+    text-align: center;
+    position: relative; 
+    right: 200px;
+    color:#e06c0d; 
+    font-family: "Oswald", sans-serif;
+    font-weight: 900;
+    font-size: 45px;
+}
